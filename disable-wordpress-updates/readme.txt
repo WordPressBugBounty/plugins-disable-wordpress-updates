@@ -3,7 +3,7 @@ Contributors: Alphawolf
 Donate link: https://www.schloebe.de/donate/
 Tags: disable updates, update, theme, update control
 Requires at least: 3.8
-Tested up to: 7.1.99
+Tested up to: 7.1
 Requires PHP: 7.4
 Stable tag: trunk
 License: GPLv2 or later
@@ -50,10 +50,13 @@ are existing, simply deactive this plugin for a short time.
 
 == Screenshots ==
 
-None. :)
+None.
 
 
 == Changelog ==
+
+= 2.0.3 =
+* "Security Mode" fixes (thanks @jonkastonka)
 
 = 2.0.2 =
 * WordPress 7.1 compatibility
